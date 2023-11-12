@@ -37,3 +37,4 @@ Rscript r/ucb/plot_ucb1.R
 Rscript r/exp3/plot_exp3.R
 Rscript r/comparisons/plot_simple_comparisons.R
 Rscript r/comparisons/plot_comparisons.R
+ 
